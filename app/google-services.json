@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "580221750699",
+    "firebase_url": "https://tourism-7eeda.firebaseio.com",
+    "project_id": "tourism-7eeda",
+    "storage_bucket": "tourism-7eeda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580221750699:android:ee7140a8f35c2cba",
+        "android_client_info": {
+          "package_name": "com.jonskynet.tourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580221750699-r90jq1rd4ls6ainj7ui9h06e767o2nnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzEotWOCzdO_ePK_6sLtR_Gsw6DqY6Ks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580221750699:android:91663c917544d43a",
+        "android_client_info": {
+          "package_name": "com.jonskynet.tourism4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580221750699-r90jq1rd4ls6ainj7ui9h06e767o2nnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzEotWOCzdO_ePK_6sLtR_Gsw6DqY6Ks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
